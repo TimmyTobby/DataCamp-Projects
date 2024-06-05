@@ -11,6 +11,10 @@ This repository contains a collection of projects completed as part of various D
 | --- | --- |
 |`Analyzing TV Data` | Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom The Office! |
 |`From Data to Dollars - Predicting Insurance Charges` | Dive into the heart of data science with a project that combines healthcare insights and predictive analytics. |
+|`Writing Functions for Product Analysis` | Use coding best practices and functions to improve a script! |
+|`Cleaning Bank Marketing Campaign Data` | Tidy a bank marketing campaign dataset by splitting it into subsets, updating values, converting data types, and storing it as multiple csv files. |
+|`Predicting Movie Rental Durations` | Build a regression model for a DVD rental firm to predict rental duration. Evaluate models to recommend the best one. | 
+|`Predictive Modeling for Agriculture` | Dive into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems. |
 
 
 ## SQL
