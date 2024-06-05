@@ -21,3 +21,5 @@ This repository contains a collection of projects completed as part of various D
 | Project  | Description
 | --- | --- |
 |`When Was the Golden Era of Video Games?` | Use SQL to figure out the golden era of video games! |
+| `Analyzing Students' Mental Health` | Use data manipulation skills to perform exploratory data analysis on a dataset around student mental health. |
+| `Analyzing Motorcycle Part Sales` | Derive insights about motorcycle part sales over time across multiple warehouse sites! |
