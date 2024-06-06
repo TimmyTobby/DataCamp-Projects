@@ -1,10 +1,10 @@
-# DataCamp-Projects
+# DataCamp Projects
 
 <p align= "center">
 <img src= "https://cdn.freelogovectors.net/wp-content/uploads/2022/11/datacamp-logo-freelogovectors.net_.png", width = "800"
 </p>
 
-This repository contains some of the projects completed as part of various [DataCamp](https://www.datacamp.com) courses. Each project demonstrates practical applications of data science, machine learning, and data analysis techniques using real-world datasets.
+This repository contains some of the projects I did on [DataCamp](https://www.datacamp.com). Each project demonstrates practical applications of data science, machine learning, and data analysis techniques using real-world datasets.
 
 ## Python
 | Project  | Description
@@ -22,8 +22,8 @@ This repository contains some of the projects completed as part of various [Data
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
 | `Naïve Bees: Image Loading and Processing` | Load, transform, and understand images of honey bees and bumble bees in Python. | 
 | `Naïve Bees: Predict Species from Images` | Build a model that can automatically detect honey bees and bumble bees in images. |
-
-
+| `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. |
+| `Hypothesis Testing in Healthcare` | Perform hypothesis tests to determine if the adverse effects of a pharmaceutical drug are significant! |
 ## SQL
 | Project  | Description
 | --- | --- |
