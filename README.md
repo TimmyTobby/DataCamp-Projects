@@ -22,7 +22,7 @@ This repository contains some of the projects completed as part of various [Data
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
 | `Naïve Bees: Image Loading and Processing` | Load, transform, and understand images of honey bees and bumble bees in Python. | 
 | `Naïve Bees: Predict Species from Images` | Build a model that can automatically detect honey bees and bumble bees in images. |
-
+| `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. |
 
 ## SQL
 | Project  | Description
