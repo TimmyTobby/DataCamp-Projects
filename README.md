@@ -23,7 +23,7 @@ This repository contains some of the projects I did on [DataCamp](https://www.da
 | `Naïve Bees: Image Loading and Processing` | Load, transform, and understand images of honey bees and bumble bees in Python. | 
 | `Naïve Bees: Predict Species from Images` | Build a model that can automatically detect honey bees and bumble bees in images. |
 | `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. |
-
+| `Hypothesis Testing in Healthcare` | Perform hypothesis tests to determine if the adverse effects of a pharmaceutical drug are significant! |
 ## SQL
 | Project  | Description
 | --- | --- |
