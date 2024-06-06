@@ -1,4 +1,4 @@
-# DataCamp-Projects
+# DataCamp Projects
 
 <p align= "center">
 <img src= "https://cdn.freelogovectors.net/wp-content/uploads/2022/11/datacamp-logo-freelogovectors.net_.png", width = "800"
