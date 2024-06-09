@@ -9,6 +9,7 @@ This repository contains some of the projects I did on [DataCamp](https://www.da
 ## Python
 | Project  | Description
 | --- | --- |
+|`Facial Recognition with Supervised Learning` | Explore facial recognition with ML by distinguishing Arnold Schwarzenegger from others using Python and scikit-learn. |
 |`Analyzing TV Data` | Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom The Office! |
 |`Predicting Credit Card Approvals` | Build a machine learning model to predict if a credit card application will get approved. |
 |`Hypothesis Testing in Healthcare` | Perform hypothesis tests to determine if the adverse effects of a pharmaceutical drug are significant! |
